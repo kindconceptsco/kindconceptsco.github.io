@@ -2632,7 +2632,7 @@ input, select, textarea {
 
 			.features li:before {
 				display: block;
-				color: #00ffcc;
+				color: #ffffff;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -3008,8 +3008,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
-			color: #d3d4e4;
+			background-color: #fdc549;
+			color: #ffffff;
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
@@ -3041,7 +3041,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style3 header.major p {
-				color: #d3d4e4;
+				color: #ffffff;
 			}
 
 			.wrapper.style3 label {
@@ -3707,7 +3707,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#banner {
-				padding: 20em 3em 20em 3em ;
+				padding: 50% 3em 50% 3em ;
 				height: auto;
 				min-height: 0;
 			}
