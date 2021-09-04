@@ -1,0 +1,12 @@
+/* Webfont: MADEEvolveSans */@font-face {
+    font-family: 'MADEEvolveSans2';
+    src: url('MADEEvolveSans.eot'); /* IE9 Compat Modes */
+    src: url('MADEEvolveSans.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('MADEEvolveSans.woff') format('woff'), /* Modern Browsers */
+         url('MADEEvolveSans.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('MADEEvolveSans.svg#MADEEvolveSans') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
