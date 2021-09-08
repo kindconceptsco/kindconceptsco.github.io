@@ -244,15 +244,15 @@ input, select, textarea {
 
 	h6 {
 		font-size: 1.9em;
-		line-height: 1.75em;
+		line-height: 1.5em;
 		font-family: 'MADEEvolveSans', "Open Sans", Helvetica, sans-serif;
 	}
 
 		@media screen and (max-width: 736px) {
 
 			h6 {
-				font-size: 1em;
-				line-height: 1.55em;
+				font-size: 1.55em;
+				line-height: 1.4em;
 			}
 
 		}
